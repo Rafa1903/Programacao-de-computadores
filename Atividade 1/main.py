@@ -67,3 +67,4 @@ horas = int(input("Trabalhou quantas horas nesse mês?"))
 valor_hora = 10
 salario_total = horas * valor_hora
 print("O salário total vai ser", salario_total)
+# Oi
